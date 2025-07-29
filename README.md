@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StreamCompare - Streaming Subscription Comparison App
 
 A modern, production-ready React application for comparing streaming service subscriptions with integrated Stripe payment processing and Docker deployment.
@@ -197,3 +198,6 @@ For issues with:
 - **Stripe Integration**: Check the [Stripe Documentation](https://stripe.com/docs)
 - **Docker**: Refer to [Docker Documentation](https://docs.docker.com/)
 - **React/Vite**: See [Vite Documentation](https://vitejs.dev/)
+=======
+# streaming-subscription
+>>>>>>> 9e49fc1a7c4107144be4134e50921fd3790f569b
